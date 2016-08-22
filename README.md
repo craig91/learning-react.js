@@ -1,2 +1,2 @@
-# learning-react.js
-Learning react.js
+react.js learning, examples and tutorials
+
